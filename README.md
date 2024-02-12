@@ -1,6 +1,6 @@
 # Python-Web-Scraping
 
-[Link to Jupyter Notebook](
+[Link to Jupyter Notebook](https://github.com/psungg/Python-Web-Scraping/blob/main/Notebook/Final%20Assignment.ipynb)
 
 ![Qns01]('https://github.com/psungg/Python-Web-Scraping/blob/main/Images/Qns01.png')
 ![Qns02]('https://github.com/psungg/Python-Web-Scraping/blob/main/Images/Qns02.png')
